@@ -1,8 +1,10 @@
 #%%
+#%%
 # Taken form: https://neurokit2.readthedocs.io/en/latest/introduction.html#quick-example
 
 import neurokit2 as nk
 
+#%%
 #%%
 # Download example data
 data = nk.data("bio_eventrelated_100hz")
