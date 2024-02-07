@@ -2,6 +2,7 @@
 
 ![](images/Ergometer.bmp)
 
+![](images/uml_usecase_leistungsmessung.svg)
 
 ## Anwendungsfall Leistungsdiagnostik
 
