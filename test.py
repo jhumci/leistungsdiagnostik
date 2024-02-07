@@ -1,7 +1,9 @@
+#%%
 # Taken form: https://neurokit2.readthedocs.io/en/latest/introduction.html#quick-example
 
 import neurokit2 as nk
 
+#%%
 # Download example data
 data = nk.data("bio_eventrelated_100hz")
 
@@ -10,3 +12,10 @@ processed_data, info = nk.bio_process(ecg=data["ECG"], rsp=data["RSP"], eda=data
 
 # Compute relevant features
 results = nk.bio_analyze(processed_data, sampling_rate=100)
+
+# %%
+
+results.head()
+# %%
+
+# %%
