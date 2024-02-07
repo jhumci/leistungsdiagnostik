@@ -1,5 +1,7 @@
 # Leistungsdiagnostik-Tool V0.2
 
+![](images/Ergometer.bmp)
+
 
 ## Anwendungsfall Leistungsdiagnostik
 
