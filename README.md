@@ -1,4 +1,4 @@
-# Leistungsdiagnostik-Tool V0.1
+# Leistungsdiagnostik-Tool V0.2
 
 
 ## Anwendungsfall Leistungsdiagnostik
@@ -17,5 +17,5 @@
 | Standardablauf                 | Hier wird das typische Szenario dargestellt, das leicht zu verstehen oder der am häufigsten vorkommende Fall ist.                                                                       | Alle Leistungsstufen werden nacheinander durchlaufen. Überprüfung, ob Leistungswerte eingehalten. Daten werden gespeichert.                     |
 | Alternative Ablaufschritte     | Dies sind Szenarien, die sich außerhalb des Standardablaufs auch bei der (versuchten) Zielerreichung des Anwendungsfalls ereignen können.                                               | Widerstandswerte werden verletzt. Neustart und Abbruch werden angeboten.                                                                         |
 | Hinweise                       | Kurze Erklärungen zum besseren Verständnis, Hinweise zu Nebeneffekten, Mengengerüsten soweit erforderlich und alles andere, das nicht weiter oben dargestellt werden kann.              | keine                                                                                                                                            |
-| Änderungsgeschichte            | Versionierung, Name des Autors, Datum                                                                                                                                                   | 0.01; 10.01.2022.; Julian Huber                                                                                                                  |
+| Änderungsgeschichte            | Versionierung, Name des Autors, Datum                                                                                                                                                   | 0.2; 7.02.2024.; Julian Huber                                                                                                                  |
 
